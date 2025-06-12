@@ -5,11 +5,12 @@ Farklı teknolojilerle çalışmayı seven, yazılım geliştirme konusunda tutk
 
 ### 💻 Teknolojiler ve Araçlar
 
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend:** C#, Python, C+
-**Fonksiyonel Programlama:** Lisp
-**Diğer:** Git, RESTful API'ler
-🌱 Şu anda, açık kaynak projelere katkı sağlıyor ve yenilikçi çözümler geliştirmek için çalışıyorum.
+**Frontend:** HTML, CSS, JavaScript, React <br>
+**Backend:** C#, Python, C+ <br>
+**Fonksiyonel Programlama:** Lisp <br>
+**Diğer:** Git, RESTful API'ler <br>
+
+🌱 Şu anda, açık kaynak projelere katkı sağlıyor ve yenilikçi çözümler geliştirmek için çalışıyorum. 
 
 ### 📈 Hedeflerim
 Daha etkili, verimli ve ölçeklenebilir projeler geliştirmek için sürekli öğrenmek ve teknoloji dünyasına katkıda bulunmak.
