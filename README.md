@@ -1,51 +1,69 @@
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="150"/>
+</p>
+
 <h1 align="center">👋 Merhaba, Ben Aslı Korkmaz!</h1>
-<h3 align="center">Yazılım Geliştirici | Açık Kaynak Meraklısı | Teknoloji Tutkunu</h3>
+<h3 align="center">Yazılım Geliştirici | Açık Kaynak Tutkunu | Teknoloji Meraklısı</h3>
 
 ---
 
-### 🎯 Hakkımda
-Farklı teknolojilerle çalışmayı seven, yazılım geliştirme konusunda tutkulu bir geliştiriciyim. Sürekli öğrenmeye ve yeni projelerle kendimi geliştirmeye odaklanıyorum. Açık kaynak topluluklarına katkı sağlamak ve yenilikçi çözümler üretmek benim için büyük bir motivasyon kaynağı.
+### 🌟 Hakkımda
+💻 Farklı teknolojilerle çalışmayı seven, yazılım geliştirme konusunda tutkulu bir geliştiriciyim.  
+🚀 Sürekli öğrenmeye, yeni projelerle kendimi geliştirmeye ve açık kaynak topluluklarına katkı sağlamaya odaklanıyorum.  
 
 ---
 
-### 💻 Teknolojiler ve Araçlar
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+### 🛠️ Teknolojiler & Araçlar
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
 
 ---
 
 ### 🌱 Şu anda
 - Açık kaynak projelere katkıda bulunuyorum  
 - Yenilikçi çözümler geliştiriyorum  
-- Yeni teknolojileri öğreniyorum
+- Yeni teknolojiler öğreniyorum  
 
 ---
 
-### 📈 Hedeflerim
-- Daha etkili, verimli ve ölçeklenebilir projeler geliştirmek  
-- Yazılım dünyasına katkıda bulunmak  
-- Kendimi sürekli geliştirmek ve yeni alanlara açılmak  
+### 🎯 Hedeflerim
+- Daha etkili ve ölçeklenebilir projeler geliştirmek  
+- Teknoloji dünyasına katkıda bulunmak  
+- Sürekli kendimi geliştirmek ve yeni alanlara açılmak  
 
 ---
 
 ### 📫 Bana Ulaşın
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:korkmaz.asli2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asl%C4%B1-korkmaz/)
+<div align="center">
+  <a href="mailto:korkmaz.asli2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/asl%C4%B1-korkmaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Aslı'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aslikorkmaz48&show_icons=true&theme=radical)
-![Aslı'nın Popüler Repoları](https://github-readme-stats.vercel.app/api/top-langs/?username=aslikorkmaz48&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslikorkmaz48&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslikorkmaz48&layout=compact&theme=radical" />
+</div>
 
 ---
 
-<h2 align="center">✨ "Kod bir araçtır, ama tutku ve azimle gerçek projeler hayata geçer."</h2>
+### ✨ Öne Çıkan Projelerim
+- **🎮 Hafıza Oyunu** – JavaScript & React, animasyonlu kartlar ile öğrenmeyi eğlenceli hâle getiriyor  
+- **🧮 Vücut Kitle Endeksi Hesaplama** – React, kullanıcı dostu arayüz ve diyet önerileri  
+- **💬 Gerçek Zamanlı Chat Uygulaması** – Node.js & Socket.io, anlık mesajlaşma deneyimi  
+
+---
+
+<h2 align="center">💡 "Kod bir araçtır, ama tutku ve azimle gerçek projeler hayata geçer."</h2>
